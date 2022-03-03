@@ -3,6 +3,7 @@
 ## Requirements
 
 NET6-win10-x64 (can be built for any platform but I specified win10-x64 to have an .exe output file)
+NET6 is required because I used top level statements as you can see in "Program.cs" and interface default implementations too.
 
 ## Compiling Source
 
