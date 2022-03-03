@@ -57,7 +57,7 @@ For these kind of command line applications I would try to use libraries to ease
 
 Also when asynchronous interfaces would appear like asking information to a REST service I would change synchronous interfaces of *IProviderDeserializer* for asynchronous ones.
 
-And last but not least I might try to find a different Yaml parsing library the one I choose seems to be a litte bit old and does not support directly latest .NET version. There are some Pull requests on the way https://github.com/aaubry/YamlDotNet/pull/630 but it's opened since 2021 so that could mean the project it's not maintained anymore.
+And last but not least I might try to find a different Yaml parsing library the one I chose seems to be a litte bit old and does not support directly latest .NET version. There are some Pull requests on the way https://github.com/aaubry/YamlDotNet/pull/630 but it's opened since 2021 so that could mean the project it's not maintained anymore.
 
 Do not hesitate to contact me for any explanation.
 
