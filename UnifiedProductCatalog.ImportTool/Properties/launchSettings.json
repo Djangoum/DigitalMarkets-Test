@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnifiedProductCatalog.ImportTool": {
+      "commandName": "Project",
+      "commandLineArgs": "softwareadvice softwareadvice.json"
+    }
+  }
+}

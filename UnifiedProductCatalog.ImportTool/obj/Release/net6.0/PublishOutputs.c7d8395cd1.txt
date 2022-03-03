@@ -1,0 +1,8 @@
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\import.exe
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\capterra.yaml
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\softwareadvice.json
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\import.dll
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\import.deps.json
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\import.runtimeconfig.json
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\import.pdb
+C:\Users\Ariel Amor\source\repos\UnifiedProductCatalog.ImportTool\UnifiedProductCatalog.ImportTool\bin\Release\net6.0\publish\YamlDotNet.NetCore.dll
