@@ -51,7 +51,7 @@ So when MongoDb comes we should only provide an implementation of *IProductRepos
 
 ### **Possible improvements**
 
-I did not apply any complex internal architecture cause  I did not find it necesary. I think SOLID principles are applied all over my code and it's simple enough for anybody to understand what each class does, but if the project grows it may require some refactor and I would maybe think about implementing some internal structure with mutiple projects following vertical slice for each command or provider or maybe implmenting some "Onion/Ports And Adapters/Hexagonal/etc..." Horizontal architecture to have higher consistency across all internal design of the application.
+I did not apply any complex internal architecture cause  I did not find it necesary. I think SOLID principles are applied all over my code and it's simple enough for anybody to understand what each class does, but if the project grows it may require some refactor and I would maybe think about implementing some internal structure with mutiple projects following vertical slice for each command or provider or maybe implementing some "Onion/Ports And Adapters/Hexagonal/etc..." Horizontal architecture to have higher consistency across all internal design of the application.
 
 For these kind of command line applications I would try to use libraries to ease the task of parsing parameters like [(natemcmaster - Command Line Utils)](https://github.com/natemcmaster/CommandLineUtils) which helps these command line tools look much more like a professional command line tool, adding "help" commands and providing functionality for parsing multiple kind of parameters, etc...
 
