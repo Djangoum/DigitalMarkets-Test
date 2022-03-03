@@ -37,7 +37,7 @@ $ dotnet publish -c Release -r win10-x64 -o <desired output directory>
 First of all I'd like to focus on Models.
 I assumed that the idea was to unify data models from multiple sources to a unified common model that could represent data coming form anywhere. 
 
-That's why I wrote *CapterraDeserializer.cs* and *SoftwareAdviceProduct.cs* classes used to read information from Capterra and SoftwareAdvice sources respectively and *Product.cs* is meant to be this "unified" product model to store data inside the Unifided Product Catalog.
+That's why I wrote *CapterraProduct.cs* and *SoftwareAdviceProduct.cs* classes used to read information from Capterra and SoftwareAdvice sources respectively and *Product.cs* is meant to be this "unified" product model to store data inside the Unifided Product Catalog.
 
 The excercise asked me to keep in mind that other data providers could be added in the future. That's why I implemented a factory pattern. *ProvidersDeserializersFactory.cs* depending on the provider name, returns back an *IProviderDeserializer* which have the logic to read the corresponding file for each provider, map the custom model to the unified one and return it.
 
