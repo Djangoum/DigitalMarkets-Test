@@ -35,7 +35,7 @@ $ dotnet publish -c Release -r win10-x64 -o <desired output directory>
 ## Explanations, considerations and possible future improvements
 
 First of all I'd like to focus on Models.
-I assumed that the idea was to unify data models from multiple sources to a unified common model that could represent data coming form anywhere. 
+I assumed that the idea was to unify data models from multiple sources to a unified common model that could represent data coming from anywhere. 
 
 That's why I wrote *CapterraProduct.cs* and *SoftwareAdviceProduct.cs* classes used to read information from Capterra and SoftwareAdvice sources respectively and *Product.cs* is meant to be this "unified" product model to store data inside the Unifided Product Catalog.
 
