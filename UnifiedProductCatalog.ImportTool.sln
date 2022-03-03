@@ -8,9 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".repo", ".repo", "{0B509E8F-B010-436B-816C-276E49FBBE0C}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifiedProductCatalog.ImportTool.End2EndTests", "UnifiedProductCatalog.ImportTool.End2EndTests\UnifiedProductCatalog.ImportTool.End2EndTests.csproj", "{D9D5ACB8-42B7-4BE7-9779-8E48410CCC5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnifiedProductCatalog.ImportTool.End2EndTests", "UnifiedProductCatalog.ImportTool.End2EndTests\UnifiedProductCatalog.ImportTool.End2EndTests.csproj", "{D9D5ACB8-42B7-4BE7-9779-8E48410CCC5A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnifiedProductCatalog.ImportTool.UnitTests", "UnifiedProductCatalog.ImportTool.UnitTests\UnifiedProductCatalog.ImportTool.UnitTests.csproj", "{35768B02-60E6-48EE-8F29-A5CCC4471A07}"
 EndProject
